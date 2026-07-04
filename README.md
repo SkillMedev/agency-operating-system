@@ -9,7 +9,7 @@ Reach for this when you run an agency on retainers and the margins, renewals, or
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/agency-operating-system](https://skillme.dev/pack/agency-operating-system) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/agency-operating-system`
+- **With the skills CLI:** `npx skills add SkillMedev/agency-operating-system`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
