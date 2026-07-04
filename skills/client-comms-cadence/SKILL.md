@@ -17,9 +17,13 @@ Set tiers first, then channels, then the ladder — the cadence a client gets is
 
 Split clients into two or three tiers by retainer size and strategic value. Northbeam uses two: Tier A at $7,000/month and up (5 clients: Crestline SaaS, Verra Health, Pillar Home, Onyx Fitness, Bluepine Outdoors), Tier B below (6 clients). Tiering is internal; clients see their own contract, never the tier list.
 
+Check the load while tiering: one account manager can properly run roughly 8-10 retainer accounts on this cadence — fewer if the book skews Tier A, since the weekly call alone adds 30 minutes per client per week. An AM carrying 14 accounts will skip pulses under load, and skipped pulses are the exact silence this system exists to prevent.
+
 ### Step 2: Write the channel contract per tier
 
 One primary channel per client, agreed in writing at onboarding (route onboarding itself to client-onboarding-system). The contract names: the channel, who answers, the response SLA, and the escalation path for genuine emergencies.
+
+Budget the cost of the contract before signing it: communication and account management should run about 10-15 percent of a retainer's delivered hours. Past 20 percent, the comms load is eating the work the client is actually paying for — at Northbeam's 62 percent gross margin target, a $4,000/month Tier B client getting Tier A treatment goes underwater on AM time alone.
 
 - Tier A: shared Slack channel, weekly 30-minute call, monthly report call, quarterly QBR.
 - Tier B: email as primary, biweekly 20-minute call, monthly report by email with a call on request, quarterly QBR.
@@ -30,7 +34,7 @@ One primary channel per client, agreed in writing at onboarding (route onboardin
 
 Three rungs, each answering a different client question:
 
-1. Weekly pulse — "are they working?" A 5-bullet async update, sent the same weekday every week: what shipped, what is in progress, what is blocked and by whom, one number, what is next. Ten minutes to write. Never skip it in a bad week; a skipped pulse in a bad week is exactly the silence that kills accounts.
+1. Weekly pulse — "are they working?" A 5-bullet async update, sent the same weekday every week: what shipped, what is in progress, what is blocked and by whom, one number, what is next. Ten minutes to write, under 200 words to read — if it takes longer to produce or reads like a report, it will be skipped under load. Never skip it in a bad week; a skipped pulse in a bad week is exactly the silence that kills accounts.
 2. Monthly report — "is it working?" Results against goals, owned by agency-monthly-report. Same delivery date every month (Northbeam: fifth business day).
 3. Quarterly QBR — "should we continue and expand?" Owned by agency-qbr-upsell.
 
@@ -54,7 +58,7 @@ The account manager escalates to the owner, same day, when any of these fires. T
 
 - Client list with retainer sizes (from retainer-economics-calculator).
 - Current channels in actual use per client, and where the sprawl is worst.
-- AM hours currently spent on communication per client; if untracked, label the estimate a guess.
+- AM hours actually spent on communication per client; if untracked, label the estimate a guess.
 - Any contractual communication promises already made.
 
 ## Worked artifact: channel contract template
