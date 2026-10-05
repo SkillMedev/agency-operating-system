@@ -1,16 +1,17 @@
 # Agency Operating System
 
-**For agency owners: profitable retainers, clients that renew, and accounts that expand.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For agency owners: profitable retainers, clients that renew, and accounts that expand.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-agency-operating-system).
 
 Reach for this when you run an agency on retainers and the margins, renewals, or expansions keep slipping. It installs the operating system: positioning that escapes the generalist trap, per-client economics that expose which retainers actually make money (and the fire-or-fix threshold for the ones that don't), a communication cadence that prevents surprise churn, the monthly report that renews retainers by leading with client outcomes, QBRs that expand accounts on schedule, and a save playbook for the at-risk clients your comms signals flag. One worked example - an 8-person marketing agency with 11 retainers - threads through every skill so the margin math composes.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/agency-operating-system](https://skillme.dev/pack/agency-operating-system) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/agency-operating-system?utm_source=github&utm_medium=readme&utm_campaign=pack-agency-operating-system) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add retainer-economics-calculator agency-positioning client-comms-cadence agency-monthly-report agency-qbr-upsell client-churn-save statement-of-work-writer client-onboarding-system sales-proposal-writer --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/agency-operating-system`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -27,4 +28,4 @@ Reach for this when you run an agency on retainers and the margins, renewals, or
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-agency-operating-system).
